@@ -1,10 +1,15 @@
+
+
 #landingpage {
     background-color: url(images/Hero_Image@2x.png) !important;
-}
-.jumbotron {
+
 }
 
-.nav-bar {
+.display-4 {
+    font-family: 'Amatic SC', cursive;
+}
+
+.nav{
     margin-left: auto;
     margin-right: 0 !important;
     min-height: 65px;
